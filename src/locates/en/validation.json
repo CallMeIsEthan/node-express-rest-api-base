@@ -1,0 +1,9 @@
+{
+  "any.required": "{{field}} is required",
+  "string.empty": "{{field}} cannot be empty",
+  "string.min": "{{field}} must be at least {{limit}} characters",
+  "email": "Invalid email format",
+  "role": {
+    "invalid": "Invalid role. Allowed values are: {{valids}}."
+  }
+}

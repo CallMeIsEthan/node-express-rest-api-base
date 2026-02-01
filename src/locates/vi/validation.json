@@ -1,0 +1,9 @@
+{
+  "any.required": "{{field}} không được để trống",
+  "string.empty": "{{field}} không được là chuỗi rỗng",
+  "string.min": "{{field}} phải có ít nhất {{limit}} ký tự",
+  "email": "Định dạng email không hợp lệ",
+  "role": {
+    "invalid": "Quyền hạn không hợp lệ. Bạn chỉ có thể chọn: {{valids}}"
+  }
+}
